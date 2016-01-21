@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the GSB Feature EE Megamenu feature.
+ */
+
+include_once 'gsb_feature_ee_megamenu.features.inc';
