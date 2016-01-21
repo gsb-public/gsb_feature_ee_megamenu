@@ -58,7 +58,7 @@ function gsb_feature_ee_megamenu_default_panels_mini() {
     $display->content['new-9f547760-de5c-49da-92d1-107825ad0840'] = $pane;
     $display->panels['columnone'][0] = 'new-9f547760-de5c-49da-92d1-107825ad0840';
   $display->hide_title = PANELS_TITLE_NONE;
-  $display->title_pane = '0';
+  $display->title_pane = 'new-9f547760-de5c-49da-92d1-107825ad0840';
   $mini->display = $display;
   $export['ee_admission'] = $mini;
 
@@ -110,7 +110,7 @@ function gsb_feature_ee_megamenu_default_panels_mini() {
     $display->content['new-5cd41987-ae81-4835-911e-fa572a5bbb4b'] = $pane;
     $display->panels['columnone'][0] = 'new-5cd41987-ae81-4835-911e-fa572a5bbb4b';
   $display->hide_title = PANELS_TITLE_NONE;
-  $display->title_pane = '0';
+  $display->title_pane = 'new-5cd41987-ae81-4835-911e-fa572a5bbb4b';
   $mini->display = $display;
   $export['ee_organizations'] = $mini;
 
@@ -162,7 +162,7 @@ function gsb_feature_ee_megamenu_default_panels_mini() {
     $display->content['new-11b15f58-c069-430e-b469-3466b3a8234f'] = $pane;
     $display->panels['columnone'][0] = 'new-11b15f58-c069-430e-b469-3466b3a8234f';
   $display->hide_title = PANELS_TITLE_NONE;
-  $display->title_pane = '0';
+  $display->title_pane = 'new-11b15f58-c069-430e-b469-3466b3a8234f';
   $mini->display = $display;
   $export['ee_the_experience'] = $mini;
 
